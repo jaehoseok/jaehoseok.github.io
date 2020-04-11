@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 정보통신공학과
+title: INU_정보기술대학
 date: 2020-03-29 13:06:00 +0900
 author: Jaeho
 ---
